@@ -1,0 +1,10 @@
+E:\facultad 2025\POO\2-VideoJorgeParcial2\2-VideoJorgeParcial2\bin\Debug\2-VideoJorgeParcial2.exe.config
+E:\facultad 2025\POO\2-VideoJorgeParcial2\2-VideoJorgeParcial2\bin\Debug\2-VideoJorgeParcial2.exe
+E:\facultad 2025\POO\2-VideoJorgeParcial2\2-VideoJorgeParcial2\bin\Debug\2-VideoJorgeParcial2.pdb
+E:\facultad 2025\POO\2-VideoJorgeParcial2\2-VideoJorgeParcial2\obj\Debug\2-VideoJorgeParcial2.csproj.AssemblyReference.cache
+E:\facultad 2025\POO\2-VideoJorgeParcial2\2-VideoJorgeParcial2\obj\Debug\_2_VideoJorgeParcial2.Form1.resources
+E:\facultad 2025\POO\2-VideoJorgeParcial2\2-VideoJorgeParcial2\obj\Debug\_2_VideoJorgeParcial2.Properties.Resources.resources
+E:\facultad 2025\POO\2-VideoJorgeParcial2\2-VideoJorgeParcial2\obj\Debug\2-VideoJorgeParcial2.csproj.GenerateResource.cache
+E:\facultad 2025\POO\2-VideoJorgeParcial2\2-VideoJorgeParcial2\obj\Debug\2-VideoJorgeParcial2.csproj.CoreCompileInputs.cache
+E:\facultad 2025\POO\2-VideoJorgeParcial2\2-VideoJorgeParcial2\obj\Debug\2-VideoJorgeParcial2.exe
+E:\facultad 2025\POO\2-VideoJorgeParcial2\2-VideoJorgeParcial2\obj\Debug\2-VideoJorgeParcial2.pdb
